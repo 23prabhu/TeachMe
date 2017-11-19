@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "872871620086",
+    "firebase_url": "https://teachme-d4f9d.firebaseio.com",
+    "project_id": "teachme-d4f9d",
+    "storage_bucket": "teachme-d4f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872871620086:android:0e0c18e917812d60",
+        "android_client_info": {
+          "package_name": "prabhumath45gmail.com.teachme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872871620086-pmo21lvv371bssc1o5etg1qjo8fkq268.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prabhumath45gmail.com.teachme",
+            "certificate_hash": "3ff01e5612e427fc346624b07c49acf68ffa724b"
+          }
+        },
+        {
+          "client_id": "872871620086-p5pjstkka084qbh55su1bd66nojuau81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwGyei25rkvd3YEOpHtgvc_VgxSEnHWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872871620086-p5pjstkka084qbh55su1bd66nojuau81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
